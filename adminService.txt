@@ -1,0 +1,2 @@
+add and remove admin service
+change the admin service configuration
